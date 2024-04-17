@@ -10,3 +10,6 @@ sublime text package for autocompletion of all file paths
   - doesn't initialize drop down menu so some other plugin has to suggest something first
   - breaks on file names with spaces in them
   - doesn't work if file path starts at the beginning of the line
+
+## Speed:
+`/usr/bin/` with 5000 files in it takes ~30 ms to run
