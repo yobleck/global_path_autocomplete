@@ -12,4 +12,4 @@ sublime text package for autocompletion of all file paths
   - doesn't work if file path starts at the beginning of the line
 
 ## Speed:
-`/usr/bin/` with 5000 files in it takes ~30 ms to run
+`/usr/bin/` with 5000 files in it takes ~30 ms to run on a ryzen 5950x
